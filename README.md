@@ -1,1 +1,1 @@
-# Timer utilizando a biblioteca Tkinter e Pygame em Python.
+Timer utilizando a biblioteca Tkinter e Pygame em Python.
